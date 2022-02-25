@@ -1,0 +1,22 @@
+[
+    {
+        "path": "/test",
+        "component": "Counter",
+        "from": "node_modules\\@ab\\a"
+    },
+    {
+        "path": "/home",
+        "component": "Home",
+        "from": "node_modules\\@ab\\a"
+    },
+    {
+        "path": "/test1",
+        "component": "Counter1",
+        "from": "node_modules\\@ab\\b"
+    },
+    {
+        "path": "/home1",
+        "component": "Home1",
+        "from": "node_modules\\@ab\\b"
+    }
+]

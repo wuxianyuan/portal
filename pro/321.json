@@ -1,0 +1,22 @@
+{
+    "author": {
+        "name": "zhangshaowei"
+    },
+    "bin": {
+        "zglib": "bin/script.js"
+    },
+    "bundleDependencies": false,
+    "dependencies": {
+        "commander": "^9.0.0",
+        "inquirer": "^8.2.0"
+    },
+    "deprecated": false,
+    "description": "聚合门户依赖等脚本",
+    "license": "ISC",
+    "main": "index.js",
+    "name": "321",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "version": "1.0.0"
+}
